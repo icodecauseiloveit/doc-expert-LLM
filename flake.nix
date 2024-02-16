@@ -1,6 +1,6 @@
 
 {
-  description = "Starting to try good Ops procedures w/ Nix";
+  description = "PDF trained Chat-Bot with LLM";
 
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
 
